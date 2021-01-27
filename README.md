@@ -1,6 +1,6 @@
 # Cov_Death_City_Pop
 
-An animated plot of the cumulative count of deaths in the United States due to COVID19, with the reference of some US cities population.
+An animated plot of the cumulative count of deaths in the United States due to COVID19, with the marks of some US cities population.
 
 Data sources: 
 COVID daily tracking data from NYT - https://raw.githubusercontent.com/nytimes/covid-19-data/master/us.csv
